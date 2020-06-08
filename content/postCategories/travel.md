@@ -2,6 +2,6 @@
 template: BlogIndex
 title: Travel
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+featuredImage: 'https://ucarecdn.com/75e3ea90-559d-46ef-824e-f766e9bef33d/'
 ---
 

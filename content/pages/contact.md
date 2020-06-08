@@ -2,26 +2,22 @@
 template: ContactPage
 slug: contact
 title: Contact Me
-featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
-locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+featuredImage: 'https://ucarecdn.com/56a0f7e4-1386-4531-a4a2-6ab8c392e3ed/'
+subtitle: Want to reach out? I'd love to hear from you!
+# address: 
+# phone: 
+# email: 
+# locations:
+#   - lat: '-27.9654732'
+#     lng: '153.2432449'
+#     mapLink: ''
 meta:
   description: This is a meta description.
   title: Contact Me
 ---
 
-# Example contact form
+# Contact Form
 
-This form is setup to use Netlify's form handling:
+If you'd like to contact me for anything you can follow my social media @houmadi012 or email me here!
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
 
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).

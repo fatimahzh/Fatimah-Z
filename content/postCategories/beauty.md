@@ -2,6 +2,6 @@
 template: BlogIndex
 title: Beauty
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+featuredImage: 'https://ucarecdn.com/a569b9ed-561e-40a8-a3a0-d7ac990a07fc/'
 ---
 
