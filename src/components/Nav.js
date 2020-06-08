@@ -49,7 +49,7 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/home/">Home</NavLink>
+            <NavLink to="/">Home</NavLink>
             <NavLink to="/about/">About</NavLink>
             <div
               className={`Nav--Group ${
