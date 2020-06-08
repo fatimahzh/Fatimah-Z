@@ -41,3 +41,15 @@ CMS.registerPreviewTemplate('blog-page', ({ entry }) => (
 CMS.registerPreviewTemplate('posts', ({ entry }) => (
   <SinglePostTemplate {...entry.toJS().data} />
 ))
+CMS.registerPreviewTemplate('about', ({ entry }) => (
+  <DefaultPageTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('beauty', ({ entry }) => (
+  <BlogIndexTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('travel', ({ entry }) => (
+  <BlogIndexTemplate {...entry.toJS().data} />
+))
+CMS.registerPreviewTemplate('lifestyle', ({ entry }) => (
+  <BlogIndexTemplate {...entry.toJS().data} />
+))
